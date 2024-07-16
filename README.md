@@ -1,4 +1,4 @@
-# Myntra HackerRamo: WeForShe 2024 
+# Myntra HackerRamp: WeForShe 2024 
 Fully Functional Frontend components of our Myntra HackerRamp Project Titled: 'Trend Centric Recommendation' 
 
 # Demo of the Functional Frontend Model: 
